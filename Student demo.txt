@@ -1,0 +1,7 @@
+*****Student Application*****
+---Student Login
+---Course
+---Academics
+---Attendance
+---Paying College Fees
+---Practice tests
